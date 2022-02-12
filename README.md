@@ -1,0 +1,2 @@
+# Parent-Teacher-Interview
+This script is used to ask for information from different teachers to conduct the interview with parents.  The script creates a google form and mail it to the teachers who have that student to fill out. It also generates a spreadsheet with a specific format to facilitate the interpretation of data.  Both the google forms and the spreadsheet are saved in the "Parent Interviews" folder, which if not exists is generated in the Drive.
